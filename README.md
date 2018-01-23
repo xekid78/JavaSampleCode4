@@ -1,4 +1,4 @@
-# Java_SampleCode4
+# JavaSampleCode4
 文字列と数値の型変換
 
 #### 処理
